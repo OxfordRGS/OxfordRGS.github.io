@@ -1,5 +1,5 @@
 # Mission Statement
-The Robotics Society for Graduates (RSG) is an innovative and inclusive community formed to foster the exchange of ideas, research, and advancements in the field of robotics. Our mission is to inspire and equip the next generation of robotics engineers and researchers with the knowledge, skills, and networks necessary to shape the future of robotics.
+The Oxford Robotics Graduates Society (ORGS) is an innovative and inclusive community formed to foster the exchange of ideas, research, and advancements in the field of robotics. Our mission is to inspire and equip the next generation of robotics engineers and researchers with the knowledge, skills, and networks necessary to shape the future of robotics.
 
 ## Vision
 Our vision is to become a leading platform where graduate students and early-career professionals can collaborate, innovate, and propel the field of robotics forward. We aim to create an environment where the brightest minds can come together to solve complex problems, share groundbreaking research, and envision the future of automation and intelligent systems.
@@ -30,3 +30,9 @@ Community Engagement: To engage with the wider community by organizing outreach 
 If you are a graduate student passionate about robotics and eager to contribute to the advancement of this exciting field, the Robotics Society for Graduates welcomes you. Together, we can drive innovation, share knowledge, and shape the future of robotics.
 
 For more information on how to join and participate in our activities, please visit our website or contact us at [email address].
+
+## Committe
+- A
+- B
+- C
+- D
