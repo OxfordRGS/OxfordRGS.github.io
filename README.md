@@ -1,4 +1,4 @@
-### Society Mission
+# Society Mission
 The goals of this society.....
 
 ## Membership
