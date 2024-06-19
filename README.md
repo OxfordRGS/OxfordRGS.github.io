@@ -46,3 +46,4 @@ For more information on how to join and participate in our activities, please vi
 - Jumana Baghabrah
 - Jack Collins
 - Daniele De Martini
+- Alex Rutherford
