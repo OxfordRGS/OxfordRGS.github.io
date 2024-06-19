@@ -31,10 +31,6 @@ If you are an Oxford graduate student passionate about robotics and eager to con
 
 For more information on how to join and participate in our activities, please visit our website or contact us at [christina.kassab@seh.ox.ac.uk].
 
->TERM CARD
->- SMASH BROS. Social (April 23rd 2024)
->- Dyson Demo - Prof Rob Deaves demonstrating Dyson's 360 Visial Navigation System (June 7th 2024)
-
 ## Committee Members
 - President: Carl Hentges
 - Treasurer: Alex Schutz
