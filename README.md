@@ -1,5 +1,5 @@
 # Mission Statement
-The Oxford Robotics Graduates Society (ORGS) is an innovative and inclusive community formed to foster the exchange of ideas, research, and advancements in the field of robotics. Our mission is to inspire and equip the next generation of robotics engineers and researchers with the knowledge, skills, and networks necessary to shape the future of robotics.
+The Oxford Robotics Graduates Society (O.R.G.S.) is an innovative and inclusive community formed to foster the exchange of ideas, research, and advancements in the field of robotics. Our mission is to inspire and equip the next generation of robotics engineers and researchers with the knowledge, skills, and networks necessary to shape the future of robotics.
 
 ## Vision
 Our vision is to become a leading platform where graduate students can collaborate, innovate, and propel the field of robotics forward. We aim to create an environment where the brightest minds can come together to solve complex problems, share groundbreaking research, and envision the future of automation and intelligent systems.
@@ -31,9 +31,9 @@ If you are an Oxford graduate student passionate about robotics and eager to con
 
 For more information on how to join and participate in our activities, please visit our website or contact us at [christina.kassab@seh.ox.ac.uk].
 
-[!TERM CARD]
-- SMASH BROS. Social (April 23rd 2024)
-- Dyson Demo - Prof Rob Deaves demonstrating Dyson's 360 Visial Navigation System (June 7th 2024)
+>TERM CARD
+>- SMASH BROS. Social (April 23rd 2024)
+>- Dyson Demo - Prof Rob Deaves demonstrating Dyson's 360 Visial Navigation System (June 7th 2024)
 
 ## Committee Members
 - President: Carl Hentges
