@@ -33,7 +33,7 @@ For more information on how to join and participate in our activities, please vi
 
 
 ## TERM CARD
-![termcard](ht25_termcard_orgs.png)
+![termcard](ORGS-TERMCARD-MT25.png)
 
 >- SMASH BROS. Social (April 23rd 2024)
 >- Dyson Demo - Prof Rob Deaves demonstrating Dyson 360 Visial Navigation System (June 7th 2024)
